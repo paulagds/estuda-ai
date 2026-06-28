@@ -1,4 +1,4 @@
-# 📚 Estuda Aí — Crie Seu Próprio App de Estudos com IA
+# 📚 Estuda Aí - Crie Seu Próprio App de Estudos com IA
 
 Um template de app de estudos em React feito para rodar dentro do **Claude.ai** (via Artifacts), com tutor de IA, gerador de quiz, simulado cronometrado e tracking de progresso por tópico.
 
